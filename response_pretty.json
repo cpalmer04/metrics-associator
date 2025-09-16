@@ -1,0 +1,1487 @@
+[{
+    "status": "SUCCESS",
+    "object": {
+        "releaseTime": "2025-01-24T08:30",
+        "productId": "14100417",
+        "archiveStatusEn": "CURRENT - a cube available to the public and that is current",
+        "correctionFootnote": [],
+        "cansimId": null,
+        "nbDatapointsCube": 5887728,
+        "surveyCode": ["3701"],
+        "footnote": [
+            {
+                "footnoteId": 1,
+                "link": {
+                    "dimensionPositionId": 0,
+                    "footnoteId": 1,
+                    "memberId": 0
+                },
+                "footnotesEn": "To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are suppressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality.",
+                "footnotesFr": "Pour assurer la confidentialité du répondant, les données inférieures à un certain seuil sont supprimées. Pour le Canada, le Québec, l'Ontario, l'Alberta et la Colombie-Britannique, la suppression est appliquée à toutes les données inférieures à 1 500. Le seuil de suppression pour Terre-Neuve-et-Labrador, la Nouvelle-Écosse, le Nouveau-Brunswick, le Manitoba et la Saskatchewan est de 500, alors que pour l'Île-du-Prince-Édouard, les estimations inférieures à 200 sont supprimées. Les régions métropolitaines de recensement (RMR) et les régions économiques (RE) utilisent les seuils de suppression de leurs provinces respectives mentionnés ci-dessus. Plus le tableau est détaillé, plus la taille de l\u2019échantillon sur lequel les estimations sont basées est petite, ce qui peut résulter en une plus faible qualité des données. "
+            },
+            {
+                "footnoteId": 2,
+                "link": {
+                    "dimensionPositionId": 0,
+                    "footnoteId": 2,
+                    "memberId": 0
+                },
+                "footnotesEn": "For approximate quality indicators of the estimates, see tables 7.1 or 7.2 in the <a href=\"http://www150.statcan.gc.ca/olc-cel/olc.action?ObjId=71-543-G&ObjType=2&lang=en&limit=0\" rel=\"external noopener noreferrer\" target=\"_blank\">Guide to the Labour Force Survey (opens new window)<\/a>. For quality indicators of specific data points, contact statcan.labour-travail.statcan@canada.ca.",
+                "footnotesFr": "Pour des indicateurs approximatifs de la qualité des estimations, voir les tableaux 7.1 ou 7.2 du <a href=\"http://www150.statcan.gc.ca/olc-cel/olc.action?ObjId=71-543-G&ObjType=2&lang=fr&limit=0\" rel=\"external noopener noreferrer\" target=\"_blank\">Guide de l'Enquête sur la population active (ouvre une nouvelle fenêtre)<\/a>. Pour des indicateurs de qualité de chiffres spécifiques, communiquez avec statcan.labour-travail.statcan@canada.ca."
+            },
+            {
+                "footnoteId": 8,
+                "link": {
+                    "dimensionPositionId": 0,
+                    "footnoteId": 8,
+                    "memberId": 0
+                },
+                "footnotesEn": "This new table replaces archived table 14-10-0340-01.",
+                "footnotesFr": "Ce nouveau tableau remplace le tableau 14-10-0340-01 qui est archivé."
+            },
+            {
+                "footnoteId": 28,
+                "link": {
+                    "dimensionPositionId": 0,
+                    "footnoteId": 28,
+                    "memberId": 0
+                },
+                "footnotesEn": "Starting in 2006, enhancements to the Labour Force Survey data processing system may have introduced a level shift in some estimates, particularly for less common labour force characteristics. Use caution when comparing estimates before and after 2006. For more information, contact statcan.labour-travail.statcan@statcan.gc.ca",
+                "footnotesFr": "À partir de 2006, les améliorations apportées au système de traitement des données de l'Enquête sur la population active peuvent avoir introduit un changement de niveau dans certaines estimations, en particulier pour les caractéristiques les moins courantes de la population active. Soyez prudent lorsque vous comparez les estimations avant et après 2006. Pour de plus amples renseignements, veuillez communiquer avec statcan.labour-travail.statcan@statcan.gc.ca"
+            },
+            {
+                "footnoteId": 9,
+                "link": {
+                    "dimensionPositionId": 1,
+                    "footnoteId": 9,
+                    "memberId": 0
+                },
+                "footnotesEn": "Excluding the territories.",
+                "footnotesFr": "Excluant les territoires."
+            },
+            {
+                "footnoteId": 10,
+                "link": {
+                    "dimensionPositionId": 2,
+                    "footnoteId": 10,
+                    "memberId": 6
+                },
+                "footnotesEn": "The gender wage ratio is the wage for women divided by the wage for men. The gender wage ratio can be interpreted as the proportion of a dollar that women earn for every dollar earned by men. Alternatively, the gender wage ratio can be subtracted from one and then multiplied by 100, such that it represents, when positive, how much less women earn than men in percentage terms (or, in the case of a negative percentage, how much more women earn than men).",
+                "footnotesFr": "Le ratio des salaires entre les femmes et les hommes est le salaire des femmes divisé par le salaire des hommes. Le ratio des salaires entre les femmes et les hommes peut être interprété comme la proportion d\u2019un dollar gagné par une femme pour chaque dollar gagné par un homme. Le ratio des salaires entre les femmes et les hommes peut aussi être soustrait de l\u2019un, puis multiplié par 100, afin qu\u2019il représente, lorsque positif, le pourcentage du salaire que les femmes gagnent de moins que les hommes (ou, dans le cas d\u2019un pourcentage négatif, combien les femmes gagnent de plus que les hommes)."
+            },
+            {
+                "footnoteId": 10,
+                "link": {
+                    "dimensionPositionId": 2,
+                    "footnoteId": 10,
+                    "memberId": 7
+                },
+                "footnotesEn": "The gender wage ratio is the wage for women divided by the wage for men. The gender wage ratio can be interpreted as the proportion of a dollar that women earn for every dollar earned by men. Alternatively, the gender wage ratio can be subtracted from one and then multiplied by 100, such that it represents, when positive, how much less women earn than men in percentage terms (or, in the case of a negative percentage, how much more women earn than men).",
+                "footnotesFr": "Le ratio des salaires entre les femmes et les hommes est le salaire des femmes divisé par le salaire des hommes. Le ratio des salaires entre les femmes et les hommes peut être interprété comme la proportion d\u2019un dollar gagné par une femme pour chaque dollar gagné par un homme. Le ratio des salaires entre les femmes et les hommes peut aussi être soustrait de l\u2019un, puis multiplié par 100, afin qu\u2019il représente, lorsque positif, le pourcentage du salaire que les femmes gagnent de moins que les hommes (ou, dans le cas d\u2019un pourcentage négatif, combien les femmes gagnent de plus que les hommes)."
+            },
+            {
+                "footnoteId": 10,
+                "link": {
+                    "dimensionPositionId": 2,
+                    "footnoteId": 10,
+                    "memberId": 8
+                },
+                "footnotesEn": "The gender wage ratio is the wage for women divided by the wage for men. The gender wage ratio can be interpreted as the proportion of a dollar that women earn for every dollar earned by men. Alternatively, the gender wage ratio can be subtracted from one and then multiplied by 100, such that it represents, when positive, how much less women earn than men in percentage terms (or, in the case of a negative percentage, how much more women earn than men).",
+                "footnotesFr": "Le ratio des salaires entre les femmes et les hommes est le salaire des femmes divisé par le salaire des hommes. Le ratio des salaires entre les femmes et les hommes peut être interprété comme la proportion d\u2019un dollar gagné par une femme pour chaque dollar gagné par un homme. Le ratio des salaires entre les femmes et les hommes peut aussi être soustrait de l\u2019un, puis multiplié par 100, afin qu\u2019il représente, lorsque positif, le pourcentage du salaire que les femmes gagnent de moins que les hommes (ou, dans le cas d\u2019un pourcentage négatif, combien les femmes gagnent de plus que les hommes)."
+            },
+            {
+                "footnoteId": 10,
+                "link": {
+                    "dimensionPositionId": 2,
+                    "footnoteId": 10,
+                    "memberId": 9
+                },
+                "footnotesEn": "The gender wage ratio is the wage for women divided by the wage for men. The gender wage ratio can be interpreted as the proportion of a dollar that women earn for every dollar earned by men. Alternatively, the gender wage ratio can be subtracted from one and then multiplied by 100, such that it represents, when positive, how much less women earn than men in percentage terms (or, in the case of a negative percentage, how much more women earn than men).",
+                "footnotesFr": "Le ratio des salaires entre les femmes et les hommes est le salaire des femmes divisé par le salaire des hommes. Le ratio des salaires entre les femmes et les hommes peut être interprété comme la proportion d\u2019un dollar gagné par une femme pour chaque dollar gagné par un homme. Le ratio des salaires entre les femmes et les hommes peut aussi être soustrait de l\u2019un, puis multiplié par 100, afin qu\u2019il représente, lorsque positif, le pourcentage du salaire que les femmes gagnent de moins que les hommes (ou, dans le cas d\u2019un pourcentage négatif, combien les femmes gagnent de plus que les hommes)."
+            },
+            {
+                "footnoteId": 3,
+                "link": {
+                    "dimensionPositionId": 2,
+                    "footnoteId": 3,
+                    "memberId": 0
+                },
+                "footnotesEn": "Beginning January 1997, information is collected on the usual wages or salary of employees at their main job. Respondents are asked to report their wage/salary before taxes and other deductions, and include tips, commissions and bonuses. Weekly and hourly wages/salaries are calculated in conjunction with usual paid work hours per week. Starting in 2006, enhancements to the Labour Force Survey processing system have introduced a level shift in average and median wages. Use caution when comparing estimates before and after 2006. For more information, contact statcan.labour-travail.statcan@statcan.gc.ca",
+                "footnotesFr": "Depuis janvier 1997, des renseignements sont recueillis sur le salaire ou traitement habituel des employés à leur emploi principal. On demande aux enquêtés de déclarer leur salaire ou traitement, y compris les pourboires, les commissions et les primes, avant impôt et autres déductions. Les salaires ou traitements hebdomadaires ou horaires sont calculés conjointement avec les heures de travail par semaine habituellement payées. À partir de 2006, les améliorations apportées au système de traitement des données de l'Enquête sur la population active peuvent avoir introduit un changement de niveau dans les salaires moyens et médians. Soyez prudent lorsque vous comparez les estimations avant et après 2006. Pour de plus amples renseignements, veuillez communiquer avec statcan.labour-travail.statcan@statcan.gc.ca"
+            },
+            {
+                "footnoteId": 4,
+                "link": {
+                    "dimensionPositionId": 3,
+                    "footnoteId": 4,
+                    "memberId": 2
+                },
+                "footnotesEn": "Full-time employees are those who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred.",
+                "footnotesFr": "Employés qui travaillent habituellement 30 heures ou plus par semaine à leur emploi principal ou seul emploi. Les estimations sont exprimées en milliers et arrondies à la centaine près."
+            },
+            {
+                "footnoteId": 5,
+                "link": {
+                    "dimensionPositionId": 3,
+                    "footnoteId": 5,
+                    "memberId": 3
+                },
+                "footnotesEn": "Part-time employees are those who usually work less than 30 hours per week at their main or only job. Estimates in thousands, rounded to the nearest hundred.",
+                "footnotesFr": "Employés qui travaillent habituellement moins de 30 heures par semaine à leur emploi principal ou seul emploi. Les estimations sont exprimées en milliers et arrondies à la centaine près."
+            },
+            {
+                "footnoteId": 7,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 7,
+                    "memberId": 1
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 00 to 95.",
+                "footnotesFr": "Ceci regroupe les codes 00 à 95 de la Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 11,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 11,
+                    "memberId": 2
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 00, 10, 20, 30, 40, 50, 60, 70, 80, and 90.",
+                "footnotesFr": "Ceci regroupe les codes 00, 10, 20, 30, 40, 50, 60, 70, 80, et 90 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 12,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 12,
+                    "memberId": 4
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 00, 10, 20, 30, 40 and 50.",
+                "footnotesFr": "Ceci regroupe les codes 00, 10, 20, 30, 40 et 50 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 13,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 13,
+                    "memberId": 6
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 70, 80 and 90.",
+                "footnotesFr": "Ceci regroupe les codes 70, 80 et 90 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 14,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 14,
+                    "memberId": 7
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 11 to 14.",
+                "footnotesFr": "Ceci regroupe les codes 11 à 14 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 15,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 15,
+                    "memberId": 14
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 21 to 22.",
+                "footnotesFr": "Ceci regroupe les codes 21 à 22 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 16,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 16,
+                    "memberId": 20
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 31 to 33.",
+                "footnotesFr": "Ceci regroupe les codes 31 à 33 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 17,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 17,
+                    "memberId": 27
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 41 to 45.",
+                "footnotesFr": "Ceci regroupe les codes 41 à 45 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 18,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 18,
+                    "memberId": 37
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 44 to 45.",
+                "footnotesFr": "Ceci regroupe les codes 44 à 45 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 19,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 19,
+                    "memberId": 38
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 51 to 55.",
+                "footnotesFr": "Ceci regroupe les codes 51 à 55 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 20,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 20,
+                    "memberId": 42
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 54 to 55.",
+                "footnotesFr": "Ceci regroupe les codes 54 à 55 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 21,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 21,
+                    "memberId": 43
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 62 to 65.",
+                "footnotesFr": "Ceci regroupe les codes 62 à 65 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 22,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 22,
+                    "memberId": 48
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 72 to 75.",
+                "footnotesFr": "Ceci regroupe les codes 72 à 75 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 23,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 23,
+                    "memberId": 53
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 82 to 85.",
+                "footnotesFr": "Ceci regroupe les codes 82 à 85 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 24,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 24,
+                    "memberId": 54
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 82 to 83.",
+                "footnotesFr": "Ceci regroupe les codes 82 à 83 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 25,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 25,
+                    "memberId": 55
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 84 to 85.",
+                "footnotesFr": "Ceci regroupe les codes 84 à 85 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 26,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 26,
+                    "memberId": 56
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 92 to 95.",
+                "footnotesFr": "Ceci regroupe les codes 92 à 95 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 27,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 27,
+                    "memberId": 57
+                },
+                "footnotesEn": "This combines the National Occupational Classification (NOC) codes 92 to 93.",
+                "footnotesFr": "Ceci regroupe les codes 92 à 93 du Système de  Classification nationale des professions (CNP)."
+            },
+            {
+                "footnoteId": 6,
+                "link": {
+                    "dimensionPositionId": 4,
+                    "footnoteId": 6,
+                    "memberId": 0
+                },
+                "footnotesEn": "Occupation estimates are based on the 2021 National Occupational Classification (NOC). Occupation refers to the kind of work persons 15 years of age and over were doing during the reference week, as determined by the kind of work reported and the description of the most important duties of the job. If the individual did not have a job during the reference week, the data relate to the previous job, if that job was held in the past year.",
+                "footnotesFr": "Les estimations relatives à la profession sont fondées sur la Classification nationale des professions (CNP) de 2021. La profession renvoie au genre de travail que faisaient les personnes âgées de 15 ans ou plus pendant la semaine de référence, d'après le genre d'emploi déclaré et la description des tâches les plus importantes qui s'y rattachent. Dans le cas où la personne n'avait pas d'emploi durant la semaine de référence, les données auront trait à l'emploi précédent, dans la mesure où ce dernier a été occupé durant la dernière année."
+            },
+            {
+                "footnoteId": 29,
+                "link": {
+                    "dimensionPositionId": 5,
+                    "footnoteId": 29,
+                    "memberId": 0
+                },
+                "footnotesEn": "Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Some people may not identify with a specific gender and a person's gender may change over time. Gender includes the following concepts: gender identity, which refers to the gender that a person feels internally and individually; gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (for example, clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender. A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's license. LFS started collecting gender of person in 2022. Prior to 2022, LFS only collected information on sex of person (male or female), as declared by the respondent or recorded by the interviewer. The sex variable prior to 2022 and the two-category gender variable since 2022 are combined in this table. Although sex and gender refer to two different concepts, the introduction of gender is not expected to have a significant impact on data analysis and historical comparability, given the small size of the transgender and non-binary populations.",
+                "footnotesFr": "Genre désigne l'identité personnelle et sociale d'un individu en tant qu'homme, femme ou personne non binaire (une personne qui n'est pas exclusivement homme ni femme). Certaines personnes peuvent ne pas s'identifier à un genre en particulier et leur genre peut changer au fil du temps. Le genre comprend les concepts suivants : l'identité de genre correspond au genre qu'une personne ressent intimement et individuellement; l'expression de genre désigne la manière dont une personne présente son genre à travers son langage corporel, des choix esthétiques ou des accessoires (par exemple, vêtements, coiffure et maquillage) qui peuvent avoir été traditionnellement associés à un genre particulier, et ce, sans égard à son identité de genre. Le genre d'une personne peut différer de son sexe à la naissance et de la mention qui figure sur ses pièces d'identité ou documents juridiques actuels tels que son certificat de naissance, son passeport ou son permis de conduire. L\u2019EPA a commencé à collecter le genre de la personne en 2022. Avant 2022, l\u2019EPA ne collectait que des renseignements sur le sexe de la personne ayant participé à l\u2019enquête (masculin ou féminin), tels que déclarés par cette personne ou qu'enregistrés par la personne ayant mené l\u2019interview. La variable « sexe » des années précédant 2022 et la variable « genre » à deux catégories à partir de 2022 sont regroupées dans ce tableau. Bien que le sexe et le genre soient deux concepts différents, l\u2019introduction du concept du genre ne devrait pas avoir d\u2019incidence importante sur l\u2019analyse de données et la comparabilité historique, étant donné la petite taille des populations transgenre et non binaire."
+            },
+            {
+                "footnoteId": 30,
+                "link": {
+                    "dimensionPositionId": 5,
+                    "footnoteId": 30,
+                    "memberId": 0
+                },
+                "footnotesEn": "Given that the non-binary population is small, data aggregation to a two-category gender variable is necessary to protect the confidentiality of responses provided. Individuals in the category \u201cnon-binary persons\u201d are distributed into the other two gender categories and are denoted by the \u201c+\u201d symbol. The category \u201cMen+\u201d includes men, as well as some non-binary persons, while the category \u201cWomen+\u201d includes women, as well as some non-binary persons.",
+                "footnotesFr": "Étant donné que la population non binaire est petite, l\u2019agrégation des données en une variable de genre à deux catégories est nécessaire pour protéger la confidentialité des réponses fournies. Les personnes de la catégorie « personnes non binaires » sont réparties dans les deux autres catégories de genre et sont désignées par le symbole « + ». La catégorie « Hommes+ » comprend les hommes de même que certaines personnes non binaires, alors que la catégorie « Femmes+ » comprend les femmes de même que certaines personnes non binaires."
+            }
+        ],
+        "frequencyCode": 12,
+        "responseStatusCode": 0,
+        "nbSeriesCube": 210276,
+        "archiveStatusCode": "2",
+        "cubeTitleEn": "Employee wages by occupation, annual",
+        "cubeTitleFr": "Salaire des employés selon la profession, données annuelles",
+        "cubeStartDate": "1997-01-01",
+        "archiveStatusFr": "ACTIF - un cube qui est disponible au public et qui est toujours mise a jour",
+        "cubeEndDate": "2024-01-01",
+        "correction": [
+            {
+                "correctionNoteFr": "Le 3 février 2023, les données concernant le personnel professionnel en ingénierie et officier/officières et contrôleurs/contrôleuses des métiers techniques et des transports, ainsi que les ratios des salaires entre les femmes et les hommes ont été corrigées.",
+                "correctionDate": "2023-02-03",
+                "correctionNoteEn": "On February 3, 2023, the data for professional occupations in engineering and technical trades and transportation officers and controllers, as well as gender wage ratios were corrected.",
+                "correctionId": "3568"
+            },
+            {
+                "correctionNoteFr": "Le 17 janvier 2024, l\u2019ordre de grandeur (la position du signe des décimales) a été corrigé pour les estimations des ratios des salaires entre les femmes et les hommes de 2022 et 2023.",
+                "correctionDate": "2024-01-17",
+                "correctionNoteEn": "On January 17, 2024, the order of magnitude (placement of decimal point) was corrected in gender wage ratio estimates for 2022 and 2023.",
+                "correctionId": "3753"
+            }
+        ],
+        "issueDate": "2023-01-30",
+        "subjectCode": ["140101"],
+        "dimension": [
+            {
+                "dimensionPositionId": 1,
+                "dimensionNameFr": "Géographie",
+                "member": [
+                    {
+                        "classificationCode": "11124",
+                        "geoLevel": 0,
+                        "parentMemberId": null,
+                        "vintage": 2021,
+                        "memberNameFr": "Canada",
+                        "memberNameEn": "Canada",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 1
+                    },
+                    {
+                        "classificationCode": "10",
+                        "geoLevel": 2,
+                        "parentMemberId": 1,
+                        "vintage": 2021,
+                        "memberNameFr": "Terre-Neuve-et-Labrador",
+                        "memberNameEn": "Newfoundland and Labrador",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 2
+                    },
+                    {
+                        "classificationCode": "11",
+                        "geoLevel": 2,
+                        "parentMemberId": 1,
+                        "vintage": 2021,
+                        "memberNameFr": "Île-du-Prince-Édouard",
+                        "memberNameEn": "Prince Edward Island",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 3
+                    },
+                    {
+                        "classificationCode": "12",
+                        "geoLevel": 2,
+                        "parentMemberId": 1,
+                        "vintage": 2021,
+                        "memberNameFr": "Nouvelle-Écosse",
+                        "memberNameEn": "Nova Scotia",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 4
+                    },
+                    {
+                        "classificationCode": "13",
+                        "geoLevel": 2,
+                        "parentMemberId": 1,
+                        "vintage": 2021,
+                        "memberNameFr": "Nouveau-Brunswick",
+                        "memberNameEn": "New Brunswick",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 5
+                    },
+                    {
+                        "classificationCode": "24",
+                        "geoLevel": 2,
+                        "parentMemberId": 1,
+                        "vintage": 2021,
+                        "memberNameFr": "Québec",
+                        "memberNameEn": "Quebec",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 6
+                    },
+                    {
+                        "classificationCode": "35",
+                        "geoLevel": 2,
+                        "parentMemberId": 1,
+                        "vintage": 2021,
+                        "memberNameFr": "Ontario",
+                        "memberNameEn": "Ontario",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 7
+                    },
+                    {
+                        "classificationCode": "46",
+                        "geoLevel": 2,
+                        "parentMemberId": 1,
+                        "vintage": 2021,
+                        "memberNameFr": "Manitoba",
+                        "memberNameEn": "Manitoba",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 8
+                    },
+                    {
+                        "classificationCode": "47",
+                        "geoLevel": 2,
+                        "parentMemberId": 1,
+                        "vintage": 2021,
+                        "memberNameFr": "Saskatchewan",
+                        "memberNameEn": "Saskatchewan",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 9
+                    },
+                    {
+                        "classificationCode": "48",
+                        "geoLevel": 2,
+                        "parentMemberId": 1,
+                        "vintage": 2021,
+                        "memberNameFr": "Alberta",
+                        "memberNameEn": "Alberta",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 10
+                    },
+                    {
+                        "classificationCode": "59",
+                        "geoLevel": 2,
+                        "parentMemberId": 1,
+                        "vintage": 2021,
+                        "memberNameFr": "Colombie-Britannique",
+                        "memberNameEn": "British Columbia",
+                        "classificationTypeCode": "1",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 11
+                    }
+                ],
+                "hasUom": false,
+                "dimensionNameEn": "Geography"
+            },
+            {
+                "dimensionPositionId": 2,
+                "dimensionNameFr": "Salaires",
+                "member": [
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Total des employés, tous les salaires",
+                        "memberNameEn": "Total employees, all wages",
+                        "classificationTypeCode": null,
+                        "memberUomCode": 428,
+                        "terminated": 0,
+                        "memberId": 1
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Salaire horaire moyen",
+                        "memberNameEn": "Average hourly wage rate",
+                        "classificationTypeCode": null,
+                        "memberUomCode": 75,
+                        "terminated": 0,
+                        "memberId": 2
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Salaire hebdomadaire moyen",
+                        "memberNameEn": "Average weekly wage rate",
+                        "classificationTypeCode": null,
+                        "memberUomCode": 75,
+                        "terminated": 0,
+                        "memberId": 3
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Salaire horaire médian",
+                        "memberNameEn": "Median hourly wage rate",
+                        "classificationTypeCode": null,
+                        "memberUomCode": 75,
+                        "terminated": 0,
+                        "memberId": 4
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Salaire hebdomadaire médian",
+                        "memberNameEn": "Median weekly wage rate",
+                        "classificationTypeCode": null,
+                        "memberUomCode": 75,
+                        "terminated": 0,
+                        "memberId": 5
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Ratio du salaire horaire moyen entre les femmes et les hommes",
+                        "memberNameEn": "Average hourly gender wage ratio",
+                        "classificationTypeCode": null,
+                        "memberUomCode": 270,
+                        "terminated": 0,
+                        "memberId": 6
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Ratio du salaire horaire médian entre les femmes et les hommes",
+                        "memberNameEn": "Median hourly gender wage ratio",
+                        "classificationTypeCode": null,
+                        "memberUomCode": 270,
+                        "terminated": 0,
+                        "memberId": 7
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Ratio du salaire hebdomadaire moyen entre les femmes et les hommes",
+                        "memberNameEn": "Average weekly gender wage ratio",
+                        "classificationTypeCode": null,
+                        "memberUomCode": 270,
+                        "terminated": 0,
+                        "memberId": 8
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Ratio du salaire hebdomadaire médian entre les femmes et les hommes",
+                        "memberNameEn": "Median weekly gender wage ratio",
+                        "classificationTypeCode": null,
+                        "memberUomCode": 270,
+                        "terminated": 0,
+                        "memberId": 9
+                    }
+                ],
+                "hasUom": true,
+                "dimensionNameEn": "Wages"
+            },
+            {
+                "dimensionPositionId": 3,
+                "dimensionNameFr": "Genre de travail",
+                "member": [
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Ensemble des employés à temps plein et à temps partiel",
+                        "memberNameEn": "Both full- and part-time employees",
+                        "classificationTypeCode": null,
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 1
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Employés à temps plein",
+                        "memberNameEn": "Full-time employees",
+                        "classificationTypeCode": null,
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 2
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Employés à temps partiel",
+                        "memberNameEn": "Part-time employees",
+                        "classificationTypeCode": null,
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 3
+                    }
+                ],
+                "hasUom": false,
+                "dimensionNameEn": "Type of work"
+            },
+            {
+                "dimensionPositionId": 4,
+                "dimensionNameFr": "Classification nationale des professions (CNP)",
+                "member": [
+                    {
+                        "classificationCode": "00-95",
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Total des employés, toutes les professions",
+                        "memberNameEn": "Total employees, all occupations",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 1
+                    },
+                    {
+                        "classificationCode": "00, 10, 20, 30, 40, 50, 60, 70, 80, 90",
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Gestion",
+                        "memberNameEn": "Management occupations",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 2
+                    },
+                    {
+                        "classificationCode": "0",
+                        "geoLevel": null,
+                        "parentMemberId": 2,
+                        "vintage": null,
+                        "memberNameFr": "Membres des corps législatifs et cadres supérieurs/cadres supérieures",
+                        "memberNameEn": "Legislative and senior management occupations",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 3
+                    },
+                    {
+                        "classificationCode": "10, 20, 30, 40, 50",
+                        "geoLevel": null,
+                        "parentMemberId": 2,
+                        "vintage": null,
+                        "memberNameFr": "Cadres intermédiaires spécialisés/cadres intermédiaires spécialisées",
+                        "memberNameEn": "Specialized middle management occupations",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 4
+                    },
+                    {
+                        "classificationCode": "60",
+                        "geoLevel": null,
+                        "parentMemberId": 2,
+                        "vintage": null,
+                        "memberNameFr": "Cadres intermédiaires dans le commerce de détail, de gros et des services à la clientèle",
+                        "memberNameEn": "Middle management occupations in retail and wholesale trade and customer services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 5
+                    },
+                    {
+                        "classificationCode": "70, 80, 90",
+                        "geoLevel": null,
+                        "parentMemberId": 2,
+                        "vintage": null,
+                        "memberNameFr": "Cadres intermédiaires des métiers, des transports, de la production et des services d'utilité publique",
+                        "memberNameEn": "Middle management occupations in trades, transportation, production and utilities",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 6
+                    },
+                    {
+                        "classificationCode": "11-14",
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Affaires, finance et administration, sauf les gestionnaires",
+                        "memberNameEn": "Business, finance and administration occupations, except management",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 7
+                    },
+                    {
+                        "classificationCode": "11",
+                        "geoLevel": null,
+                        "parentMemberId": 7,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel en finance et en gestion des affaires",
+                        "memberNameEn": "Professional occupations in finance and business",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 8
+                    },
+                    {
+                        "classificationCode": "111",
+                        "geoLevel": null,
+                        "parentMemberId": 8,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel en finance",
+                        "memberNameEn": "Professional occupations in finance",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 9
+                    },
+                    {
+                        "classificationCode": "112",
+                        "geoLevel": null,
+                        "parentMemberId": 8,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel en gestion des affaires",
+                        "memberNameEn": "Professional occupations in business",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 10
+                    },
+                    {
+                        "classificationCode": "12",
+                        "geoLevel": null,
+                        "parentMemberId": 7,
+                        "vintage": null,
+                        "memberNameFr": "Personnel de supervision du travail administratif et financier et personnel administratif spécialisés",
+                        "memberNameEn": "Administrative and financial supervisors and specialized administrative occupations",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 11
+                    },
+                    {
+                        "classificationCode": "13",
+                        "geoLevel": null,
+                        "parentMemberId": 7,
+                        "vintage": null,
+                        "memberNameFr": "Personnel administratif et personnel de la logistique du transport",
+                        "memberNameEn": "Administrative occupations and transportation logistics occupations",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 12
+                    },
+                    {
+                        "classificationCode": "14",
+                        "geoLevel": null,
+                        "parentMemberId": 7,
+                        "vintage": null,
+                        "memberNameFr": "Personnel de soutien administratif et finance et en logistiques de chaîne d'approvisionnement",
+                        "memberNameEn": "Administrative and financial support and supply chain logistics occupations",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 13
+                    },
+                    {
+                        "classificationCode": "21-22",
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Sciences naturelles et appliquées et domaines apparentés, sauf les gestionnaires",
+                        "memberNameEn": "Natural and applied sciences and related occupations, except management",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 14
+                    },
+                    {
+                        "classificationCode": "21",
+                        "geoLevel": null,
+                        "parentMemberId": 14,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel des sciences naturelles et appliquées",
+                        "memberNameEn": "Professional occupations in natural and applied sciences",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 15
+                    },
+                    {
+                        "classificationCode": "211",
+                        "geoLevel": null,
+                        "parentMemberId": 15,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel des sciences naturelles",
+                        "memberNameEn": "Professional occupations in natural sciences",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 16
+                    },
+                    {
+                        "classificationCode": "212",
+                        "geoLevel": null,
+                        "parentMemberId": 15,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel des sciences appliquées (sauf ingénierie)",
+                        "memberNameEn": "Professional occupations in applied sciences (except engineering)",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 17
+                    },
+                    {
+                        "classificationCode": "213",
+                        "geoLevel": null,
+                        "parentMemberId": 15,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel en ingénierie",
+                        "memberNameEn": "Professional occupations in engineering",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 18
+                    },
+                    {
+                        "classificationCode": "22",
+                        "geoLevel": null,
+                        "parentMemberId": 14,
+                        "vintage": null,
+                        "memberNameFr": "Personnel technique assimilé aux sciences naturelles et appliquées",
+                        "memberNameEn": "Technical occupations related to natural and applied sciences",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 19
+                    },
+                    {
+                        "classificationCode": "31-33",
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Secteur de la santé, sauf les gestionnaires",
+                        "memberNameEn": "Health occupations, except management",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 20
+                    },
+                    {
+                        "classificationCode": "31",
+                        "geoLevel": null,
+                        "parentMemberId": 20,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel des soins de santé",
+                        "memberNameEn": "Professional occupations in health",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 21
+                    },
+                    {
+                        "classificationCode": "311",
+                        "geoLevel": null,
+                        "parentMemberId": 21,
+                        "vintage": null,
+                        "memberNameFr": "Professionnels des soins de santé et des services de consultation",
+                        "memberNameEn": "Health treating and consultation services professionals",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 22
+                    },
+                    {
+                        "classificationCode": "312",
+                        "geoLevel": null,
+                        "parentMemberId": 21,
+                        "vintage": null,
+                        "memberNameFr": "Professionnels/professionnelles en thérapie et en évaluation",
+                        "memberNameEn": "Therapy and assessment professionals",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 23
+                    },
+                    {
+                        "classificationCode": "313",
+                        "geoLevel": null,
+                        "parentMemberId": 21,
+                        "vintage": null,
+                        "memberNameFr": "Professionnels des soins infirmiers et paramédicaux",
+                        "memberNameEn": "Nursing and allied health professionals",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 24
+                    },
+                    {
+                        "classificationCode": "32",
+                        "geoLevel": null,
+                        "parentMemberId": 20,
+                        "vintage": null,
+                        "memberNameFr": "Personnel technique des soins de santé",
+                        "memberNameEn": "Technical occupations in health",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 25
+                    },
+                    {
+                        "classificationCode": "33",
+                        "geoLevel": null,
+                        "parentMemberId": 20,
+                        "vintage": null,
+                        "memberNameFr": "Personnel de soutien des services de santé",
+                        "memberNameEn": "Assisting occupations in support of health services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 26
+                    },
+                    {
+                        "classificationCode": "41-45",
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Enseignement, droit et services sociaux, communautaires et gouvernementaux, sauf les gestionnaires",
+                        "memberNameEn": "Occupations in education, law and social, community and government services, except management",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 27
+                    },
+                    {
+                        "classificationCode": "41",
+                        "geoLevel": null,
+                        "parentMemberId": 27,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel du droit, d'enseignement, des services gouvernementaux, sociaux et communautaires",
+                        "memberNameEn": "Professional occupations in law, education, social, community and government services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 28
+                    },
+                    {
+                        "classificationCode": "411",
+                        "geoLevel": null,
+                        "parentMemberId": 28,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel du droit",
+                        "memberNameEn": "Professional occupations in law",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 29
+                    },
+                    {
+                        "classificationCode": "412",
+                        "geoLevel": null,
+                        "parentMemberId": 28,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel en services d'enseignement",
+                        "memberNameEn": "Professional occupations in education services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 30
+                    },
+                    {
+                        "classificationCode": "413",
+                        "geoLevel": null,
+                        "parentMemberId": 28,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel des services sociaux et communautaires",
+                        "memberNameEn": "Professional occupations in social and community services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 31
+                    },
+                    {
+                        "classificationCode": "414",
+                        "geoLevel": null,
+                        "parentMemberId": 28,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel des services gouvernementaux",
+                        "memberNameEn": "Professional occupations in government services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 32
+                    },
+                    {
+                        "classificationCode": "42",
+                        "geoLevel": null,
+                        "parentMemberId": 27,
+                        "vintage": null,
+                        "memberNameFr": "Services de protection publique de première ligne et personnel paraprofessionnel des services juridiques, sociaux, communautaires et de l'enseignement",
+                        "memberNameEn": "Front-line public protection services and paraprofessional occupations in legal, social, community, education services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 33
+                    },
+                    {
+                        "classificationCode": "421",
+                        "geoLevel": null,
+                        "parentMemberId": 33,
+                        "vintage": null,
+                        "memberNameFr": "Personnel des services de protection publique de première ligne",
+                        "memberNameEn": "Occupations in front-line public protection services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 34
+                    },
+                    {
+                        "classificationCode": "422",
+                        "geoLevel": null,
+                        "parentMemberId": 33,
+                        "vintage": null,
+                        "memberNameFr": "Personnel paraprofessionnel des services juridiques, sociaux, communautaires et de l'enseignement",
+                        "memberNameEn": "Paraprofessional occupations in legal, social, community and education services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 35
+                    },
+                    {
+                        "classificationCode": "43",
+                        "geoLevel": null,
+                        "parentMemberId": 27,
+                        "vintage": null,
+                        "memberNameFr": "Personnel de soutien en éducation et en protection juridique et publique",
+                        "memberNameEn": "Assisting occupations in education and in legal and public protection",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 36
+                    },
+                    {
+                        "classificationCode": "44-45",
+                        "geoLevel": null,
+                        "parentMemberId": 27,
+                        "vintage": null,
+                        "memberNameFr": "Prestataires de soins et personnel de soutien de juridique et de la protection du public et Surveillants/surveillantes d'élèves, brigadiers/brigadières et autres professions connexes",
+                        "memberNameEn": "Care providers and public protection support occupations and student monitors, crossing guards and related occupations",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 37
+                    },
+                    {
+                        "classificationCode": "51-55",
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Arts, culture, sports et loisirs, sauf les gestionnaires",
+                        "memberNameEn": "Occupations in art, culture, recreation and sport, except management",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 38
+                    },
+                    {
+                        "classificationCode": "51",
+                        "geoLevel": null,
+                        "parentMemberId": 38,
+                        "vintage": null,
+                        "memberNameFr": "Personnel professionnel des arts et de la culture",
+                        "memberNameEn": "Professional occupations in art and culture",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 39
+                    },
+                    {
+                        "classificationCode": "52",
+                        "geoLevel": null,
+                        "parentMemberId": 38,
+                        "vintage": null,
+                        "memberNameFr": "Personnel technique des arts, de la culture et des sports",
+                        "memberNameEn": "Technical occupations in art, culture and sport",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 40
+                    },
+                    {
+                        "classificationCode": "53",
+                        "geoLevel": null,
+                        "parentMemberId": 38,
+                        "vintage": null,
+                        "memberNameFr": "Personnel des arts, de la culture et des sports",
+                        "memberNameEn": "Occupations in art, culture and sport",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 41
+                    },
+                    {
+                        "classificationCode": "54-55",
+                        "geoLevel": null,
+                        "parentMemberId": 38,
+                        "vintage": null,
+                        "memberNameFr": "Personnel de soutien des arts, de la culture et des sports",
+                        "memberNameEn": "Support occupations in art, culture and sport",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 42
+                    },
+                    {
+                        "classificationCode": "62-65",
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Vente et services, sauf les gestionnaires",
+                        "memberNameEn": "Sales and service occupations, except management",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 43
+                    },
+                    {
+                        "classificationCode": "62",
+                        "geoLevel": null,
+                        "parentMemberId": 43,
+                        "vintage": null,
+                        "memberNameFr": "Personnel de supervision des ventes au détail et des services et personnel des ventes et des services spécialisés",
+                        "memberNameEn": "Retail sales and service supervisors and specialized occupations in sales and services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 44
+                    },
+                    {
+                        "classificationCode": "63",
+                        "geoLevel": null,
+                        "parentMemberId": 43,
+                        "vintage": null,
+                        "memberNameFr": "Personnel des ventes et des services",
+                        "memberNameEn": "Occupations in sales and services",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 45
+                    },
+                    {
+                        "classificationCode": "64",
+                        "geoLevel": null,
+                        "parentMemberId": 43,
+                        "vintage": null,
+                        "memberNameFr": "Représentants/représentantes des ventes et du service et autres professions des services à la clientèle et personnels",
+                        "memberNameEn": "Sales and service representatives and other customer and personal services occupations",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 46
+                    },
+                    {
+                        "classificationCode": "65",
+                        "geoLevel": null,
+                        "parentMemberId": 43,
+                        "vintage": null,
+                        "memberNameFr": "Personnel de soutien aux ventes et services",
+                        "memberNameEn": "Sales and service support occupations",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 47
+                    },
+                    {
+                        "classificationCode": "72-75",
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Métiers, transport, machinerie et domaines apparentés, sauf les gestionnaires",
+                        "memberNameEn": "Trades, transport and equipment operators and related occupations, except management",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 48
+                    },
+                    {
+                        "classificationCode": "72",
+                        "geoLevel": null,
+                        "parentMemberId": 48,
+                        "vintage": null,
+                        "memberNameFr": "Officiers/officières et contrôleurs/contrôleuses des métiers techniques et des transports",
+                        "memberNameEn": "Technical trades and transportation officers and controllers",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 49
+                    },
+                    {
+                        "classificationCode": "73",
+                        "geoLevel": null,
+                        "parentMemberId": 48,
+                        "vintage": null,
+                        "memberNameFr": "Métiers généraux",
+                        "memberNameEn": "General trades",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 50
+                    },
+                    {
+                        "classificationCode": "74",
+                        "geoLevel": null,
+                        "parentMemberId": 48,
+                        "vintage": null,
+                        "memberNameFr": "Personnel au courrier et à la distribution de messages, autres conducteurs/conductrices de matériel de transport et personnel d'entretien assimilé",
+                        "memberNameEn": "Mail and message distribution, other transport equipment operators and related maintenance workers",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 51
+                    },
+                    {
+                        "classificationCode": "75",
+                        "geoLevel": null,
+                        "parentMemberId": 48,
+                        "vintage": null,
+                        "memberNameFr": "Aides et ouvriers/ouvrières et autres opérateurs/opératrices et manoeuvres de transport et personnel assimilé",
+                        "memberNameEn": "Helpers and labourers and other transport drivers, operators and labourers",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 52
+                    },
+                    {
+                        "classificationCode": "82-85",
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Ressources naturelles, agriculture et production connexe, sauf les gestionnaires",
+                        "memberNameEn": "Natural resources, agriculture and related production occupations, except management",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 53
+                    },
+                    {
+                        "classificationCode": "82-83",
+                        "geoLevel": null,
+                        "parentMemberId": 53,
+                        "vintage": null,
+                        "memberNameFr": "Superviseurs/superviseures et personnel en ressources naturelles, en agriculture et en production connexe",
+                        "memberNameEn": "Supervisors and occupations in natural resources, agriculture and related production",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 54
+                    },
+                    {
+                        "classificationCode": "84-85",
+                        "geoLevel": null,
+                        "parentMemberId": 53,
+                        "vintage": null,
+                        "memberNameFr": "Travailleurs/travailleuses et manoeuvres à la récolte, en aménagement paysager, en ressources naturelles, en agriculture et en production connexe",
+                        "memberNameEn": "Workers and labourers in natural resources, agriculture and related production",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 55
+                    },
+                    {
+                        "classificationCode": "92-95",
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Fabrication et services d'utilité publique, sauf les gestionnaires",
+                        "memberNameEn": "Occupations in manufacturing and utilities, except management",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 56
+                    },
+                    {
+                        "classificationCode": "92-93",
+                        "geoLevel": null,
+                        "parentMemberId": 56,
+                        "vintage": null,
+                        "memberNameFr": "Personnel de supervision, opérateurs/opératrices de poste central de contrôle dans la transformation, la fabrication et les services d'utilité publique et monteurs/monteuses et inspecteurs/inspectrices de montage d'aéronefs",
+                        "memberNameEn": "Supervisors, central control and process operators in processing, manufacturing and utilities and aircraft assemblers and inspectors",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 57
+                    },
+                    {
+                        "classificationCode": "94",
+                        "geoLevel": null,
+                        "parentMemberId": 56,
+                        "vintage": null,
+                        "memberNameFr": "Opérateurs/opératrices de machines, monteurs/monteuses et inspecteurs/inspectrices dans le traitement, la fabrication et l'impression",
+                        "memberNameEn": "Machine operators, assemblers and inspectors in processing, manufacturing and printing",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 58
+                    },
+                    {
+                        "classificationCode": "95",
+                        "geoLevel": null,
+                        "parentMemberId": 56,
+                        "vintage": null,
+                        "memberNameFr": "Manoeuvres dans la transformation, la fabrication et les services d'utilité publique",
+                        "memberNameEn": "Labourers in processing, manufacturing and utilities",
+                        "classificationTypeCode": "76",
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 59
+                    }
+                ],
+                "hasUom": false,
+                "dimensionNameEn": "National Occupational Classification (NOC)"
+            },
+            {
+                "dimensionPositionId": 5,
+                "dimensionNameFr": "Genre",
+                "member": [
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "Total - Genre",
+                        "memberNameEn": "Total - Gender",
+                        "classificationTypeCode": null,
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 1
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Hommes+",
+                        "memberNameEn": "Men+",
+                        "classificationTypeCode": null,
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 2
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": 1,
+                        "vintage": null,
+                        "memberNameFr": "Femmes+",
+                        "memberNameEn": "Women+",
+                        "classificationTypeCode": null,
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 3
+                    }
+                ],
+                "hasUom": false,
+                "dimensionNameEn": "Gender"
+            },
+            {
+                "dimensionPositionId": 6,
+                "dimensionNameFr": "Groupe d'âge",
+                "member": [
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "15 ans et plus",
+                        "memberNameEn": "15 years and over",
+                        "classificationTypeCode": null,
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 1
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "15 à 24 ans",
+                        "memberNameEn": "15 to 24 years",
+                        "classificationTypeCode": null,
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 2
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "25 à 54 ans",
+                        "memberNameEn": "25 to 54 years",
+                        "classificationTypeCode": null,
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 3
+                    },
+                    {
+                        "classificationCode": null,
+                        "geoLevel": null,
+                        "parentMemberId": null,
+                        "vintage": null,
+                        "memberNameFr": "55 ans et plus",
+                        "memberNameEn": "55 years and over",
+                        "classificationTypeCode": null,
+                        "memberUomCode": null,
+                        "terminated": 0,
+                        "memberId": 4
+                    }
+                ],
+                "hasUom": false,
+                "dimensionNameEn": "Age group"
+            }
+        ]
+    }
+}]
